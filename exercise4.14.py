@@ -1,0 +1,1 @@
+#four spaces per indent, lines under 80 characters, lowercase_with_underscores for names.
